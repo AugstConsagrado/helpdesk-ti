@@ -1,6 +1,6 @@
 # Helpdesk TI
 
-Sistema local de chamados de suporte técnico, com interface responsiva, API HTTP e persistência em SQLite. Projeto educacional de portfólio de Erick Augusto, construído com apoio de IA e acompanhado de um roteiro de estudo e personalização.
+Sistema local de chamados de suporte técnico, com interface responsiva, API HTTP e persistência em SQLite. Projeto pessoal de portfólio de Erick Augusto, acompanhado de um roteiro de estudo e personalização.
 
 ![Tela do sistema](docs/preview.jpg)
 
@@ -99,3 +99,5 @@ O SQLite simplifica a execução sem instalar um servidor de banco. O servidor f
 - Autenticação, autorização e proteção adequada antes de um eventual deploy.
 
 Consulte [o roteiro de estudo](docs/ESTUDO.md) para entender, demonstrar e personalizar o projeto. Essas melhorias são propostas, não funcionalidades já implementadas.
+
+Desenvolvimento com apoio de IA.
