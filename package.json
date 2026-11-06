@@ -1,0 +1,9 @@
+{
+  "name": "helpdesk-ti",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sistema local de chamados de TI com JavaScript e SQLite",
+  "engines": {"node": ">=22.13.0"},
+  "scripts": {"start": "node src/server.js", "test": "node --test"}
+}
