@@ -1,6 +1,6 @@
 # Helpdesk TI
 
-Sistema local de chamados de suporte técnico, com interface responsiva, API HTTP e persistência em SQLite. Projeto pessoal de portfólio de Erick Augusto, acompanhado de um roteiro de estudo e personalização.
+Desenvolvi este sistema local de chamados para demonstrar o fluxo de uma central de suporte técnico. A aplicação reúne uma interface responsiva, API HTTP e persistência em SQLite, com dados fictícios e um roteiro que documenta as decisões técnicas e possibilidades de estudo.
 
 ![Tela do sistema](docs/preview.jpg)
 
